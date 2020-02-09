@@ -15,7 +15,7 @@ An Epic application to track your Home Rummy Games!
     - 1st drop penalty amount
     - Mid drop penalty amount
     - Book penalty amount
-  - Tournament/Jackpot
+  - Jackpot Game
     - Points limit
     - Cumpulsory score (Limit - 20)
     - Buy-in amount per player
@@ -38,11 +38,11 @@ An Epic application to track your Home Rummy Games!
   - Stop current game
     - Calculate cash breakup based on current winnings or losses
     - Summary showing money won/lost with what is owed by each player
-- Touranament/Jackpot
+- Jackpot Game
   - Record score
     - Enter numbers based on the points declared for each player
     - Range from 0 to 80
-  - End tournament prematurely
+  - End Jackpot Game prematurely
     - Data loss confirmation
   - Declare winner based on the points entered
 
