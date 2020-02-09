@@ -49,6 +49,7 @@ An Epic application to track your Home Rummy Games!
 ### Previous Games
 - Current Running game(s) on top of the list
 - Older games at the bottom
+- Multi-Select a completed games and delete them
 
 ### Player management
 - Create a new player
